@@ -78,9 +78,8 @@ plt.tight_layout()
 plt.show()
 ```
 ## Output
-<img width="196" height="262" alt="image" src="https://github.com/user-attachments/assets/3d0eb5ca-5b40-4784-b88c-b2f855051fdc" />
-<img width="268" height="287" alt="image" src="https://github.com/user-attachments/assets/d3369f71-7be4-4148-8abc-aa9af8c08987" />
-<img width="595" height="313" alt="image" src="https://github.com/user-attachments/assets/e7fb22dd-7cb5-4a34-9978-3cb4a6a7fd2f" />
+<img width="461" height="470" alt="download" src="https://github.com/user-attachments/assets/673272fd-05ac-49cb-8c26-5738e28b67aa" />
+
 
 
 
